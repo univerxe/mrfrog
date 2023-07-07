@@ -1,0 +1,39 @@
+
+img{
+    background-color: black;
+    
+    
+  }
+  h1{
+    text-align: center;
+    color: greenyellow;
+  }
+  
+  body{
+    background-color: black;
+  }
+  
+  p{
+    font-family:monospace;
+  }
+  
+  
+  .frog{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 5px solid white;
+  }
+  
+  .poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: greenyellow;
+    font-family: 'Noto Serif KR', serif;
+    text-align: center; 
+    text-transform: none;
+  }
+  
+  
